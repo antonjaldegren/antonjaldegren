@@ -1,5 +1,7 @@
 ![](https://github.com/antonjaldegren/antonjaldegren/blob/main/layered-waves-haikei%20(1)%201.svg)
 
+[![Github](https://img.shields.io/github/followers/antonjaldegren?label=Follow&style=social)](https://github.com/antonjaldegren)
+
 <!--
 **antonjaldegren/antonjaldegren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
