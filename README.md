@@ -2,6 +2,9 @@
 
 [![Github](https://img.shields.io/github/followers/antonjaldegren?label=Follow&style=social)](https://github.com/antonjaldegren) ![](https://visitor-badge.laobi.icu/badge?page_id=antonjaldegren.antonjaldegren)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonjaldegren&theme=dark)
+
+
 
 <!--
 **antonjaldegren/antonjaldegren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
