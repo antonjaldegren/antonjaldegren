@@ -1,4 +1,4 @@
-![](https://github.com/antonjaldegren/antonjaldegren/blob/main/layered-waves-haikei%20(1)%201.svg)
+![](https://github.com/antonjaldegren/antonjaldegren/blob/main/banner.svg)
 
 [![Github](https://img.shields.io/github/followers/antonjaldegren?label=Follow&style=social)](https://github.com/antonjaldegren) ![](https://visitor-badge.laobi.icu/badge?page_id=antonjaldegren.antonjaldegren)
 
@@ -37,6 +37,7 @@
 
 ### Developer Tools
 - Git/GitHub
+- Node/npm
 - Virtual Studio Code
 - Figma
 
