@@ -1,7 +1,3 @@
-![](https://github.com/antonjaldegren/antonjaldegren/blob/main/banner.svg)
-
-[![Github](https://img.shields.io/github/followers/antonjaldegren?label=Follow&style=social)](https://github.com/antonjaldegren) ![](https://visitor-badge.laobi.icu/badge?page_id=antonjaldegren.antonjaldegren)
-
 ## About me
 - Currently studying *Front End / App Developer* at [Changemaker Educations](https://cmeducations.se/)
 - Passionate problem solver with a keen eye for aesthetics
