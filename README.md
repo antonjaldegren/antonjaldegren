@@ -1,3 +1,5 @@
+![](https://github.com/antonjaldegren/antonjaldegren/blob/main/banner.svg)
+
 ## About me
 - Currently studying *Front End / App Developer* at [Changemaker Educations](https://cmeducations.se/)
 - Passionate problem solver with a keen eye for aesthetics
